@@ -6,6 +6,7 @@ export default {
       ["About", "#About"],
       ["Allies", "#Aliados"],
       ["join", "#Form"],
+      ["vocabtest", "/vocabtest.html"]
     ],
     banner: [
       {
